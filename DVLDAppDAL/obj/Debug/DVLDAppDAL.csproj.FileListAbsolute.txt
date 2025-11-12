@@ -1,6 +1,0 @@
-C:\progrmming_advices_courses\Course 19\DVLDAppDAL\bin\Debug\DVLDAppDAL.dll
-C:\progrmming_advices_courses\Course 19\DVLDAppDAL\bin\Debug\DVLDAppDAL.pdb
-C:\progrmming_advices_courses\Course 19\DVLDAppDAL\obj\Debug\DVLDAppDAL.csproj.AssemblyReference.cache
-C:\progrmming_advices_courses\Course 19\DVLDAppDAL\obj\Debug\DVLDAppDAL.csproj.CoreCompileInputs.cache
-C:\progrmming_advices_courses\Course 19\DVLDAppDAL\obj\Debug\DVLDAppDAL.dll
-C:\progrmming_advices_courses\Course 19\DVLDAppDAL\obj\Debug\DVLDAppDAL.pdb
