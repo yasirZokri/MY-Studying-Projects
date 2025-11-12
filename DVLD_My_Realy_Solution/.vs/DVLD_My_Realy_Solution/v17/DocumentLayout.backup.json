@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\progrmming_advices_courses\\Course 19\\DVLD_My_Realy_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FB8628-6FD8-4254-A43D-B0CEF95442EF}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\progrmming_advices_courses\\course 19\\dvld_dataaccess\\clspersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABC9406-A65B-4171-B4CD-21567D5A4FA6}|..\\DVLD_Business\\DVLD_Business.csproj|c:\\progrmming_advices_courses\\course 19\\dvld_business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FB8628-6FD8-4254-A43D-B0CEF95442EF}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\progrmming_advices_courses\\course 19\\dvld_dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD76A272-2699-4A2D-8146-258B040CA0DE}|DVLD_My_Realy_Solution.csproj|C:\\progrmming_advices_courses\\Course 19\\DVLD_My_Realy_Solution\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD76A272-2699-4A2D-8146-258B040CA0DE}|DVLD_My_Realy_Solution.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsPersonData.cs",
+              "DocumentMoniker": "C:\\progrmming_advices_courses\\Course 19\\DVLD_DataAccess\\clsPersonData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsPersonData.cs",
+              "ToolTip": "C:\\progrmming_advices_courses\\Course 19\\DVLD_DataAccess\\clsPersonData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsPersonData.cs",
+              "ViewState": "AgIAAM8BAAAAAAAAAAAmwN8BAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T07:37:42.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\progrmming_advices_courses\\Course 19\\DVLD_Business\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Business\\Class1.cs",
+              "ToolTip": "C:\\progrmming_advices_courses\\Course 19\\DVLD_Business\\Class1.cs",
+              "RelativeToolTip": "..\\DVLD_Business\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T07:36:46.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\progrmming_advices_courses\\Course 19\\DVLD_DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\Class1.cs",
+              "ToolTip": "C:\\progrmming_advices_courses\\Course 19\\DVLD_DataAccess\\Class1.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T07:35:17.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\progrmming_advices_courses\\Course 19\\DVLD_My_Realy_Solution\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\progrmming_advices_courses\\Course 19\\DVLD_My_Realy_Solution\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T07:33:57.311Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

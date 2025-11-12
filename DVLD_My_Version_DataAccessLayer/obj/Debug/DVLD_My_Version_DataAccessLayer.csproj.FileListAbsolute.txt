@@ -1,0 +1,6 @@
+C:\progrmming_advices_courses\Course 19\DVLD_My_Version_DataAccessLayer\bin\Debug\DVLD_My_Version_DataAccessLayer.dll
+C:\progrmming_advices_courses\Course 19\DVLD_My_Version_DataAccessLayer\bin\Debug\DVLD_My_Version_DataAccessLayer.pdb
+C:\progrmming_advices_courses\Course 19\DVLD_My_Version_DataAccessLayer\obj\Debug\DVLD_My_Version_DataAccessLayer.csproj.AssemblyReference.cache
+C:\progrmming_advices_courses\Course 19\DVLD_My_Version_DataAccessLayer\obj\Debug\DVLD_My_Version_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\progrmming_advices_courses\Course 19\DVLD_My_Version_DataAccessLayer\obj\Debug\DVLD_My_Version_DataAccessLayer.dll
+C:\progrmming_advices_courses\Course 19\DVLD_My_Version_DataAccessLayer\obj\Debug\DVLD_My_Version_DataAccessLayer.pdb

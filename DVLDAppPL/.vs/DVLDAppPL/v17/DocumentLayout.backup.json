@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\progrmming_advices_courses\\Course 19\\DVLDAppPL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE002EAF-A65B-48E7-BCEB-A4B90C4B5A7A}|DVLDAppPL.csproj|c:\\progrmming_advices_courses\\course 19\\dvldapppl\\frmaddupdatepersoncs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE002EAF-A65B-48E7-BCEB-A4B90C4B5A7A}|DVLDAppPL.csproj|solutionrelative:frmaddupdatepersoncs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE002EAF-A65B-48E7-BCEB-A4B90C4B5A7A}|DVLDAppPL.csproj|c:\\progrmming_advices_courses\\course 19\\dvldapppl\\frmaddupdatepersoncs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE002EAF-A65B-48E7-BCEB-A4B90C4B5A7A}|DVLDAppPL.csproj|solutionrelative:frmaddupdatepersoncs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE002EAF-A65B-48E7-BCEB-A4B90C4B5A7A}|DVLDAppPL.csproj|c:\\progrmming_advices_courses\\course 19\\dvldapppl\\controls\\ctraddorupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE002EAF-A65B-48E7-BCEB-A4B90C4B5A7A}|DVLDAppPL.csproj|solutionrelative:controls\\ctraddorupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6FAD8D-F8A2-4732-A0A2-006431C37CED}|..\\DVLDAppBLL\\DVLDAppBLL.csproj|c:\\progrmming_advices_courses\\course 19\\dvldappbll\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE002EAF-A65B-48E7-BCEB-A4B90C4B5A7A}|DVLDAppPL.csproj|c:\\progrmming_advices_courses\\course 19\\dvldapppl\\controls\\ctraddorupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE002EAF-A65B-48E7-BCEB-A4B90C4B5A7A}|DVLDAppPL.csproj|solutionrelative:controls\\ctraddorupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE002EAF-A65B-48E7-BCEB-A4B90C4B5A7A}|DVLDAppPL.csproj|c:\\progrmming_advices_courses\\course 19\\dvldapppl\\forms\\frmmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE002EAF-A65B-48E7-BCEB-A4B90C4B5A7A}|DVLDAppPL.csproj|solutionrelative:forms\\frmmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE002EAF-A65B-48E7-BCEB-A4B90C4B5A7A}|DVLDAppPL.csproj|c:\\progrmming_advices_courses\\course 19\\dvldapppl\\forms\\managepeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE002EAF-A65B-48E7-BCEB-A4B90C4B5A7A}|DVLDAppPL.csproj|solutionrelative:forms\\managepeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE002EAF-A65B-48E7-BCEB-A4B90C4B5A7A}|DVLDAppPL.csproj|c:\\progrmming_advices_courses\\course 19\\dvldapppl\\forms\\managepeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE002EAF-A65B-48E7-BCEB-A4B90C4B5A7A}|DVLDAppPL.csproj|solutionrelative:forms\\managepeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE002EAF-A65B-48E7-BCEB-A4B90C4B5A7A}|DVLDAppPL.csproj|c:\\progrmming_advices_courses\\course 19\\dvldapppl\\forms\\frmmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE002EAF-A65B-48E7-BCEB-A4B90C4B5A7A}|DVLDAppPL.csproj|solutionrelative:forms\\frmmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 232,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAddUpdatePersoncs.cs",
+              "DocumentMoniker": "C:\\progrmming_advices_courses\\Course 19\\DVLDAppPL\\frmAddUpdatePersoncs.cs",
+              "RelativeDocumentMoniker": "frmAddUpdatePersoncs.cs",
+              "ToolTip": "C:\\progrmming_advices_courses\\Course 19\\DVLDAppPL\\frmAddUpdatePersoncs.cs",
+              "RelativeToolTip": "frmAddUpdatePersoncs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T07:09:58.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAddUpdatePersoncs.cs [Design]",
+              "DocumentMoniker": "C:\\progrmming_advices_courses\\Course 19\\DVLDAppPL\\frmAddUpdatePersoncs.cs",
+              "RelativeDocumentMoniker": "frmAddUpdatePersoncs.cs",
+              "ToolTip": "C:\\progrmming_advices_courses\\Course 19\\DVLDAppPL\\frmAddUpdatePersoncs.cs [Design]",
+              "RelativeToolTip": "frmAddUpdatePersoncs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T07:08:14.616Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\progrmming_advices_courses\\Course 19\\DVLDAppBLL\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "..\\DVLDAppBLL\\Properties\\Resources.resx",
+              "ToolTip": "C:\\progrmming_advices_courses\\Course 19\\DVLDAppBLL\\Properties\\Resources.resx",
+              "RelativeToolTip": "..\\DVLDAppBLL\\Properties\\Resources.resx",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAhwHcAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-20T07:04:55.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ctrAddOrUpdatePerson.cs",
+              "DocumentMoniker": "C:\\progrmming_advices_courses\\Course 19\\DVLDAppPL\\Controls\\ctrAddOrUpdatePerson.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrAddOrUpdatePerson.cs",
+              "ToolTip": "C:\\progrmming_advices_courses\\Course 19\\DVLDAppPL\\Controls\\ctrAddOrUpdatePerson.cs",
+              "RelativeToolTip": "Controls\\ctrAddOrUpdatePerson.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T07:01:34.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ctrAddOrUpdatePerson.cs [Design]",
+              "DocumentMoniker": "C:\\progrmming_advices_courses\\Course 19\\DVLDAppPL\\Controls\\ctrAddOrUpdatePerson.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrAddOrUpdatePerson.cs",
+              "ToolTip": "C:\\progrmming_advices_courses\\Course 19\\DVLDAppPL\\Controls\\ctrAddOrUpdatePerson.cs [Design]",
+              "RelativeToolTip": "Controls\\ctrAddOrUpdatePerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T07:00:55.672Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMainPage.cs",
+              "DocumentMoniker": "C:\\progrmming_advices_courses\\Course 19\\DVLDAppPL\\Forms\\frmMainPage.cs",
+              "RelativeDocumentMoniker": "Forms\\frmMainPage.cs",
+              "ToolTip": "C:\\progrmming_advices_courses\\Course 19\\DVLDAppPL\\Forms\\frmMainPage.cs",
+              "RelativeToolTip": "Forms\\frmMainPage.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAlwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:54:27.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManagePeople.cs",
+              "DocumentMoniker": "C:\\progrmming_advices_courses\\Course 19\\DVLDAppPL\\Forms\\ManagePeople.cs",
+              "RelativeDocumentMoniker": "Forms\\ManagePeople.cs",
+              "ToolTip": "C:\\progrmming_advices_courses\\Course 19\\DVLDAppPL\\Forms\\ManagePeople.cs",
+              "RelativeToolTip": "Forms\\ManagePeople.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:47:00.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManagePeople.cs [Design]",
+              "DocumentMoniker": "C:\\progrmming_advices_courses\\Course 19\\DVLDAppPL\\Forms\\ManagePeople.cs",
+              "RelativeDocumentMoniker": "Forms\\ManagePeople.cs",
+              "ToolTip": "C:\\progrmming_advices_courses\\Course 19\\DVLDAppPL\\Forms\\ManagePeople.cs [Design]",
+              "RelativeToolTip": "Forms\\ManagePeople.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:46:43.352Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMainPage.cs [Design]",
+              "DocumentMoniker": "C:\\progrmming_advices_courses\\Course 19\\DVLDAppPL\\Forms\\frmMainPage.cs",
+              "RelativeDocumentMoniker": "Forms\\frmMainPage.cs",
+              "ToolTip": "C:\\progrmming_advices_courses\\Course 19\\DVLDAppPL\\Forms\\frmMainPage.cs [Design]",
+              "RelativeToolTip": "Forms\\frmMainPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T08:28:23.066Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

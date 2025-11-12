@@ -1,0 +1,9 @@
+C:\progrmming_advices_courses\Course 19\DVLD_My_Version_BusinessLayer\bin\Debug\DVLD_My_Version_BusinessLayer.dll
+C:\progrmming_advices_courses\Course 19\DVLD_My_Version_BusinessLayer\bin\Debug\DVLD_My_Version_BusinessLayer.pdb
+C:\progrmming_advices_courses\Course 19\DVLD_My_Version_BusinessLayer\bin\Debug\DVLD_My_Version_DataAccessLayer.dll
+C:\progrmming_advices_courses\Course 19\DVLD_My_Version_BusinessLayer\bin\Debug\DVLD_My_Version_DataAccessLayer.pdb
+C:\progrmming_advices_courses\Course 19\DVLD_My_Version_BusinessLayer\obj\Debug\DVLD_My_Version_BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\progrmming_advices_courses\Course 19\DVLD_My_Version_BusinessLayer\obj\Debug\DVLD_My_Version_BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\progrmming_advices_courses\Course 19\DVLD_My_Version_BusinessLayer\obj\Debug\DVLD_My_.783A12B3.Up2Date
+C:\progrmming_advices_courses\Course 19\DVLD_My_Version_BusinessLayer\obj\Debug\DVLD_My_Version_BusinessLayer.dll
+C:\progrmming_advices_courses\Course 19\DVLD_My_Version_BusinessLayer\obj\Debug\DVLD_My_Version_BusinessLayer.pdb

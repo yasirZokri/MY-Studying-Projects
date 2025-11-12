@@ -1,0 +1,8 @@
+C:\progrmming_advices_courses\Course 19\DVLDAppBLL\bin\Debug\DVLDAppBLL.dll
+C:\progrmming_advices_courses\Course 19\DVLDAppBLL\bin\Debug\DVLDAppBLL.pdb
+C:\progrmming_advices_courses\Course 19\DVLDAppBLL\obj\Debug\DVLDAppBLL.csproj.AssemblyReference.cache
+C:\progrmming_advices_courses\Course 19\DVLDAppBLL\obj\Debug\DVLDAppBLL.Properties.Resources.resources
+C:\progrmming_advices_courses\Course 19\DVLDAppBLL\obj\Debug\DVLDAppBLL.csproj.GenerateResource.cache
+C:\progrmming_advices_courses\Course 19\DVLDAppBLL\obj\Debug\DVLDAppBLL.csproj.CoreCompileInputs.cache
+C:\progrmming_advices_courses\Course 19\DVLDAppBLL\obj\Debug\DVLDAppBLL.dll
+C:\progrmming_advices_courses\Course 19\DVLDAppBLL\obj\Debug\DVLDAppBLL.pdb
